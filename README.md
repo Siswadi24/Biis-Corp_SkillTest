@@ -31,7 +31,7 @@ Home User 1 | Home User 2 | CRUD Screen
 ## Fitur
 - Home User 1
 - Home User 2
-- CRUD Screen
+- CRUD Fitur Screen
 
 ## Teknologi yang digunakan
 - Flutter
