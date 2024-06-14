@@ -26,7 +26,7 @@ __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flu
 ## Hasil Gambar
 Home User 1 | Home User 2 | CRUD Screen 
 :----------:|:----------:| :----------:| 
-<img src="Demo/Apps/User1.jpeg"/> | <img src="Demo/Apps/User2.jpeg"/> | <img src="Demo/Apps/CRUD.jpeg"/> 
+<img src="Demo/Apps/User1.jpg"/> | <img src="Demo/Apps/User2.jpg"/> | <img src="Demo/Apps/CRUD.jpg"/> 
 
 ## Fitur
 - Home User 1
